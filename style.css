@@ -1,0 +1,57 @@
+h1{
+    text-align : center;
+    color: aqua ;
+}
+img{
+    width:100%;
+    vertical-align: top;
+    height: 300px;
+}
+div{
+   display: inline-block; 
+   background-color: aqua; 
+   width: 30%;
+   border: 4px black solid;
+    border-left-width: 7px ;
+    border-right-width: 7px ;
+    border-top-width : 7 px ;
+    border-bottom-width : 7px;
+    margin: 5px;
+    padding: 3px 10px 10px 10px;
+     text-align: center;
+    vertical-align: top;
+    height: 450px;
+}
+h2{
+    font-size: 40px;
+    margin: 0px;
+     
+
+}
+h1,h2{
+ font-family: 'Balsamiq Sans', cursive;   
+}
+body{
+background-image: url("C:/Users/MSI M.Video/Pictures/oNlA9Axrre.jpg");    
+background-repeat: no-repeat ;
+background-size: cover;
+}
+table{color:cyan;
+    border-collapse: collapse;
+}
+h3{color:aqua}
+.table{
+  color:#0021FF;   
+}
+td{
+border-width: 2px;
+border-style: solid;
+border-color:coral;
+text-align: center;
+}
+a{
+  text-decoration: none;
+font-size: 30px;
+}
+
+
